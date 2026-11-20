@@ -1,7 +1,3 @@
-# programming-resources-for-students
-A curated collection of free programming tutorials, coding practice platforms, project websites and developer resources for students.
-# 💻 Programming Resources for Students
-
 Welcome to Programming Resources for Students!
 
 This repository is a collection of useful websites that help students learn programming, improve coding skills, practise problem-solving, build projects, and prepare for technical careers.
